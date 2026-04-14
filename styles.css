@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url("/src/img/Previsao-do-Tempo-Sol-atravessa-as-nuvens-e-aquece-Sao-Paulo.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  backdrop-filter: blur(10px);
+  color: white;
+}
+
+input {
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background: #ffffff;
+  cursor: pointer;
+}
+
+#resultado {
+  margin-top: 20px;
+  
+}
