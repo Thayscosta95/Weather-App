@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-image: url("/src/img/Previsao-do-Tempo-Sol-atravessa-as-nuvens-e-aquece-Sao-Paulo.jpg");
+  background-image: url("/img/tempo.jpg");
   background-repeat: no-repeat;
   height: 100vh;
   display: flex;
